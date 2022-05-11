@@ -5,3 +5,6 @@ Then, I have used lightgbm ( a decision tree algorithm) to do regression for pre
 Best hyperparameter is searched by using hyperopt (parameters to be optimized is number of leaves and max depth for decision tree).
 
 Accuracy score and important features can be viewed in lightgbm_modelling.ipynb.
+
+
+# Note on Rogers-Satchell Volatility
