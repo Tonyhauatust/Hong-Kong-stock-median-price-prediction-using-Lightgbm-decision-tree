@@ -9,4 +9,6 @@ Accuracy score and important features can be viewed in lightgbm_modelling.ipynb.
 
 # Note on Rogers-Satchell Volatility
 
-Rogers-Satchell is an estimator for measuring the volatility of securities with an average return not equal to zero. Its formula is shown below
+Rogers-Satchell is an estimator for measuring the volatility of securities with an average return not equal to zero. Its formula is shown below: 
+
+![image](RS_Volatility.png)
